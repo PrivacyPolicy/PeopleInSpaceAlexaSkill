@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "intent": "GetNumberIntent"
+    },
+    {
+      "intent": "GetListIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+ }

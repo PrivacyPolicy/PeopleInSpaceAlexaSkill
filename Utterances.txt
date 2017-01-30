@@ -1,0 +1,47 @@
+GetNumberIntent people in space
+GetNumberIntent how many
+GetNumberIntent how many people in space
+GetNumberIntent how many people are in space right now
+GetNumberIntent people in space right now
+GetNumberIntent space right now
+GetNumberIntent number of people
+GetNumberIntent tally of people in outer space
+GetNumberIntent tell me how many people are in space right now
+GetNumberIntent tell me the number of austronauts in 
+GetNumberIntent number of astronauts
+GetNumberIntent how many astronauts in outer space
+GetNumberIntent how many astronauts
+GetNumberIntent how many astronauts are in space right now
+GetNumberIntent what is the number of astronauts in space right now
+GetNumberIntent what is the count of astronauts in outer space
+GetNumberIntent count how many astronauts in space
+GetNumberIntent count how many humans are in space
+GetNumberIntent how many humans are in space right now
+GetNumberIntent how many humans are in space
+GetListIntent list the people in space right now
+GetListIntent list the people in space
+GetListIntent list of people in space right now
+GetListIntent list of people in outer space
+GetListIntent list of astronauts
+GetListIntent list of astronauts in space
+GetListIntent who is in outer space right now
+GetListIntent what are the names of the astronauts in space right now
+GetListIntent list the astronauts in outer space 
+GetListIntent list the names of the people in space right now
+GetListIntent tell me who is in space right now
+GetListIntent tell me what the names of the astronauts in space right now are
+GetListIntent name the people in space
+GetListIntent name the astronauts in space
+GetListIntent name the people in space right now
+GetListIntent name the astronauts in space right now
+GetListIntent list the names of astronauts
+GetListIntent list the names of the people in outer space right now
+GetListIntent list the names of space people
+GetListIntent how many humans are in space right now
+GetListIntent list the humans in outer space right now
+GetListIntent list the humans in space
+GetListIntent names of people in space right now
+GetListIntent names
+GetListIntent names of astronauts
+GetListIntent names of people in space
+GetListIntent names of people in outer space
