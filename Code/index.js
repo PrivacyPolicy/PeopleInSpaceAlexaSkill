@@ -3,7 +3,7 @@ var Alexa = require('alexa-sdk');
 var request = require("request");
 
 var APP_ID = "amzn1.ask.skill.e51dffe3-4c23-4eeb-894c-ce2d6825e025";
-var SKILL_NAME = 'How Many People Are In Space';
+var SKILL_NAME = 'How Many People Are In Space?';
 var JSON_URL = "http://www.howmanypeopleareinspacerightnow.com/peopleinspace.json";
 var jsonData = {};
 
@@ -36,7 +36,7 @@ var loadJsonData = function (handler, callback) {
 
 var handlers = {
     'LaunchRequest': function () {
-        this.emit('GetFact');
+        this.emit('GetNumber');
     },
     'GetNumberIntent': function () {
         this.emit('GetNumber');
